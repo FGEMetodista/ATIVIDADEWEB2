@@ -19,37 +19,37 @@
 		</li>
 		<li <?php echo (isset($_GET["page"]) && ($_GET["page"]=="services" || $_GET["page"]=="service_engine_diagnostics" || $_GET["page"]=="service_engine_diagnostics" || $_GET["page"]=="service_belts_hoses" || $_GET["page"]=="service_air_conditioning" || $_GET["page"]=="service_brake_repair" || $_GET["page"]=="service_tire_wheel") ? " class='selected'" : ""); ?>>
 			<a href="?page=services" title="Services">
-				Services
+				Serviços
 			</a>
 			<ul>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
-						Engine Diagnostics
+						Banho e tosa
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
-						Lube, Oil and Filters
+						Sistema Leva e trás
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_belts_hoses" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_belts_hoses" title="Belts and Hoses">
-						Belts and Hoses
+						Veterinário
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_air_conditioning" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_air_conditioning" title="Air Conditioning">
-						Air Conditioning
+						Medicamentos
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_brake_repair" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_brake_repair" title="Brake Repair">
-						Brake Repair
+						Vacinas
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_tire_wheel" ? " class='selected'" : ""); ?>>
 					<a href="?page=service_tire_wheel" title="Tire and Wheel Services">
-						Tire and Wheel Services
+						Consultas
 					</a>
 				</li>
 			</ul>
