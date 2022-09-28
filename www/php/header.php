@@ -53,7 +53,7 @@
 				<div class="header-top-bar">
 					<ul class="contact-details clearfix">
 						<li class="template-phone">
-							(520) 577 2710
+							(11) 9 9999-9999
 						</li>
 						<li class="template-mail">
 							<a href="mailto:carservice@mail.com">carservice@mail.com</a>
