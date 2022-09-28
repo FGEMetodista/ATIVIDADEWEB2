@@ -23,32 +23,32 @@
 			</a>
 			<ul>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
+					<a href="?page=service_engine_diagnostics" title="Banho e Tosa">
 						Banho e tosa
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
+					<a href="?page=service_lube_oil_filters" title="Sistema leva e trás">
 						Sistema Leva e trás
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_belts_hoses" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_belts_hoses" title="Belts and Hoses">
+					<a href="?page=service_belts_hoses" title="Veterinário">
 						Veterinário
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_air_conditioning" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_air_conditioning" title="Air Conditioning">
+					<a href="?page=service_air_conditioning" title="Medicamentos">
 						Medicamentos
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_brake_repair" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_brake_repair" title="Brake Repair">
+					<a href="?page=service_brake_repair" title="Vacinas">
 						Vacinas
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_tire_wheel" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_tire_wheel" title="Tire and Wheel Services">
+					<a href="?page=service_tire_wheel" title="Consultas">
 						Consultas
 					</a>
 				</li>
@@ -60,8 +60,8 @@
 			</a>
 			<ul>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_engine_diagnostics" ? " class='selected'" : ""); ?>>
-					<a href="?page=gallery_engine_diagnostics" title="Engine Diagnostics">
-						Engine Diagnostics
+					<a href="?page=gallery_engine_diagnostics" title="Banho e Tosa">
+						Banho e Tosa
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_oil_change" ? " class='selected'" : ""); ?>>
@@ -70,8 +70,8 @@
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_belts_hoses" ? " class='selected'" : ""); ?>>
-					<a href="?page=gallery_belts_hoses" title="Belts and Hoses">
-						Belts and Hoses
+					<a href="?page=gallery_belts_hoses" title="Veterinário">
+						Veterinário
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_tire_change" ? " class='selected'" : ""); ?>>
@@ -90,8 +90,8 @@
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_brake_repair" ? " class='selected'" : ""); ?>>
-					<a href="?page=gallery_brake_repair" title="Brake Repair">
-						Brake Repair
+					<a href="?page=gallery_brake_repair" title="Vacinas">
+						Vacinas
 					</a>
 				</li>
 				<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_other_car_services" ? " class='selected'" : ""); ?>>
@@ -248,33 +248,33 @@
 				<a href="#" class="template-arrow-menu"></a>
 				<ul>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
-							Engine Diagnostics
+						<a href="?page=service_engine_diagnostics" title="Banho e Tosa">
+							Banho e Tosa
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_engine_diagnostics" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
-							Lube, Oil and Filters
+						<a href="?page=service_lube_oil_filters" title="Sistema leva e trás">
+							Sistema leva e trás
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_belts_hoses" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_belts_hoses" title="Belts and Hoses">
-							Belts and Hoses
+						<a href="?page=service_belts_hoses" title="Veterinário">
+							Veterinário
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_air_conditioning" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_air_conditioning" title="Air Conditioning">
-							Air Conditioning
+						<a href="?page=service_air_conditioning" title="Medicamentos">
+							Medicamentos
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_brake_repair" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_brake_repair" title="Brake Repair">
-							Brake Repair
+						<a href="?page=service_brake_repair" title="Vacinas">
+							Vacinas
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="service_tire_wheel" ? " class='selected'" : ""); ?>>
-						<a href="?page=service_tire_wheel" title="Tire and Wheel Services">
-							Tire and Wheel Services
+						<a href="?page=service_tire_wheel" title="Consultas">
+							Consultas
 						</a>
 					</li>
 				</ul>
@@ -286,8 +286,8 @@
 				<a href="#" class="template-arrow-menu"></a>
 				<ul>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_engine_diagnostics" ? " class='selected'" : ""); ?>>
-						<a href="?page=gallery_engine_diagnostics" title="Engine Diagnostics">
-							Engine Diagnostics
+						<a href="?page=gallery_engine_diagnostics" title="Banho e Tosa">
+							Banho e Tosa
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_oil_change" ? " class='selected'" : ""); ?>>
@@ -296,8 +296,8 @@
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_belts_hoses" ? " class='selected'" : ""); ?>>
-						<a href="?page=gallery_belts_hoses" title="Belts and Hoses">
-							Belts and Hoses
+						<a href="?page=gallery_belts_hoses" title="Veterinário">
+							Veterinário
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_tire_change" ? " class='selected'" : ""); ?>>
@@ -316,8 +316,8 @@
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_brake_repair" ? " class='selected'" : ""); ?>>
-						<a href="?page=gallery_brake_repair" title="Brake Repair">
-							Brake Repair
+						<a href="?page=gallery_brake_repair" title="Vacinas">
+							Vacinas
 						</a>
 					</li>
 					<li<?php echo (isset($_GET["page"]) && $_GET["page"]=="gallery_other_car_services" ? " class='selected'" : ""); ?>>
