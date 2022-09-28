@@ -17,7 +17,7 @@
 					data-transform_in="x:0;y:-40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="hexagon"><div class="sl-small-car-oil"></div></div>
+					
 				</div>
 				<!-- LAYER 02 -->
 				<div class="tp-caption"
@@ -29,7 +29,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<h2><a target="_top" href="https://1.envato.market/car-service-mechanic-auto-shop-template" title="MAKE YOUR CAR LAST LONGER">MAKE YOUR CAR LAST LONGER</a></h2>
+					<h2><a target="_top" title="CUIDADO QUE PROTEGE">CUIDADO QUE PROTEGE</a></h2>
 				</div>
 				<!-- LAYER 03 -->
 				<div class="tp-caption"
@@ -41,7 +41,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<p class="description">Free oil change, April 15. Only if you have a "5" on your license plate.</p>
+					<p class="description">UMA LINHA COMPLETA DE PRODUTOS DE CUIDADO PARA SEU PET</p>
 				</div>
 				<!-- LAYER 04 -->
 				<div class="tp-caption"
@@ -53,10 +53,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="align-center">
-						<a target="_top" class="more simple" href="https://1.envato.market/c/296919/275988/4415?u=https://themeforest.net/cart/add_items?item_ids=12332985&amp;ref=QuanticaLabs" title="PURCHASE TEMPLATE"><span>PURCHASE TEMPLATE</span></a>
-					</div>
-				</div>
+					
 				<!-- / -->
 			</li>
 			<!-- SLIDE 2 -->
@@ -75,7 +72,7 @@
 					data-transform_in="x:0;y:-40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="hexagon"><div class="sl-small-car"></div></div>
+					
 				</div>
 				<!-- LAYER 02 -->
 				<div class="tp-caption customin customout"
@@ -88,7 +85,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<h2><a target="_top" href="https://1.envato.market/car-service-mechanic-auto-shop-template" title="MAKE YOUR CAR LAST LONGER">FIND THE TIRES THAT MATCH YOUR NEEDS</a></h2>
+					<h2><a target="_top" title="O CUIDADO QUE SEU PET PRECISA">O CUIDADO QUE SEU PET PRECISA</a></h2>
 				</div>
 				<!-- LAYER 03 -->
 				<div class="tp-caption customin customout"
@@ -101,7 +98,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<p class="description">Take advantage of our lowest prices which automatically include coupons.</p>
+					<p class="description">TRATAMENTO DIFERENCIADO PARA SEU MELHOR AMIGO</p>
 				</div>
 				<!-- LAYER 04 -->
 				<div class="tp-caption customin customout"
@@ -114,9 +111,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="align-center">
-						<a target="_top" class="more simple" href="https://1.envato.market/c/296919/275988/4415?u=https://themeforest.net/cart/add_items?item_ids=12332985&amp;ref=QuanticaLabs" title="PURCHASE TEMPLATE"><span>PURCHASE TEMPLATE</span></a>
-					</div>
+					
 				</div>
 				<!-- / -->
 			</li>
@@ -137,7 +132,7 @@
 					data-transform_in="x:0;y:-40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="hexagon"><div class="sl-small-car-checklist"></div></div>
+					
 				</div>
 				<!-- LAYER 02 -->
 				<div class="tp-caption customin customout"
@@ -150,7 +145,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<h2><a target="_top" href="https://1.envato.market/car-service-mechanic-auto-shop-template" title="MAKE YOUR CAR LAST LONGER">EXPERT TECHNICIANS, COMPETITIVE PRICES</a></h2>
+					<h2><a target="_top"  title="PROFISSIONAIS CAPACITADOS">OS MELHORES PROFISSIONAIS DO MERCADO</a></h2>
 				</div>
 				<!-- LAYER 03 -->
 				<div class="tp-caption customin customout"
@@ -163,7 +158,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<p class="description">We are committed to earning your trust by providing the expertise and value you expect.</p>
+					<p class="description">PARA TRANSMITIR A SEGURANÇA PARA VOCÊ E PARA SEU BICHINHO.</p>
 				</div>
 				<!-- LAYER 04 -->
 				<div class="tp-caption customin customout"
@@ -176,10 +171,7 @@
 					data-transform_in="x:0;y:40;o:0;s:1200;e:easeInOutExpo;"
 					data-transform_out="x:0;y:0;o:0;s:500;e:easeInOutExpo;"-->
 					
-					<div class="align-center">
-						<a target="_top" class="more simple" href="https://1.envato.market/c/296919/275988/4415?u=https://themeforest.net/cart/add_items?item_ids=12332985&amp;ref=QuanticaLabs" title="PURCHASE TEMPLATE"><span>PURCHASE TEMPLATE</span></a>
 					</div>
-				</div>
 				<!-- / -->
 			</li>
 		</ul>
@@ -195,14 +187,14 @@
 					<li class="column column-2-3">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
-								<h3>MAKE AN APPOINTMENT	NOW WITH OUR ONLINE FORM</h3>
+								<h3>SOLICITE CONTATO DE NOSSOS PROFISSIONAIS</h3>
 							</div>
 						</div>
 					</li>
 					<li class="column column-1-3">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
-								<a class="more" href="?page=appointment" title="MAKE AN APPOINTMENT"><span>MAKE AN APPOINTMENT</span></a>
+								<a class="more" href="?page=appointment" title="CONTATO"><span>SOLICITAR CONTATO</span></a>
 							</div>
 						</div>
 					</li>
@@ -211,15 +203,15 @@
 		</div>
 		<div class="row page-margin-top-section">
 			<div class="row">
-				<h2 class="box-header">WHY CHOOSE US?</h2>
-				<p class="description align-center">We are one of the leading auto repair shops serving customers in Tucson.<br>All mechanic services are performed by highly qualified mechanics.</p>
+				<h2 class="box-header">POR QUE NOS ESCOLHER?</h2>
+				<p class="description align-center">Possuimos uma linha de produtos completa para seu PET<br>Todos nossos profissionais estão capacitados para atendimento de excelência</p>
 				<div class="row page-margin-top">
 					<div class="column column-1-3">
 						<ul class="features-list big">
 							<li>
 								<div class="hexagon"><div class="sl-small-user-chat"></div></div>
-								<h4 class="box-header page-margin-top">EVERY JOB IS PERSONAL</h4>
-								<p>If you want the quality you would expect from the dealership, but with a more personal and friendly atmosphere, you have found it.</p>
+								<h4 class="box-header page-margin-top">ATENDIMENTO PERSONALIZADO</h4>
+								<p>Todos nossos clientes recebem um atendimento personalizado que atenda suas expectativas e se adapte ao temperamento do seu bichinho.</p>
 							</li>
 						</ul>
 					</div>
@@ -227,8 +219,8 @@
 						<ul class="features-list big">
 							<li>
 								<div class="hexagon"><div class="sl-small-wrench-screwdriver"></div></div>
-								<h4 class="box-header page-margin-top">BEST MATERIALS</h4>
-								<p>We have invested in all the latest specialist tools and diagnostic software that is specifically tailored for the software in your vehicle.</p>
+								<h4 class="box-header page-margin-top">OS MELHORES PRODUTOS</h4>
+								<p>Uma linha completa de produtos e medicamentos para que possamos proporcionar a melhor experiência ao cliente.</p>
 							</li>
 						</ul>
 					</div>
@@ -236,14 +228,14 @@
 						<ul class="features-list big">
 							<li>
 								<div class="hexagon"><div class="sl-small-truck-tow"></div></div>
-								<h4 class="box-header page-margin-top">PROFESSIONAL STANDARDS</h4>
-								<p>Our auto repair shop is capable of servicing a variety of models. We only do the work that is needed to fix your problem.</p>
+								<h4 class="box-header page-margin-top">AMBIENTE AGRADÁVEL</h4>
+								<p>Nossos ambientes foram pensados e projetados para melhor atendê-lo.</p>
 							</li>
 						</ul>
 					</div>
 				</div>
 				<div class="align-center margin-top-67 padding-bottom-20">
-					<a class="more" href="?page=about" title="READ MORE"><span>READ MORE</span></a>
+					<a class="more" href="?page=about" title="READ MORE"><span>Saiba Mais</span></a>
 				</div>
 			</div>	
 		</div>
@@ -255,69 +247,69 @@
 			</div>
 			<div class="column column-1-2 padding-bottom-66">
 				<div class="row padding-left-right-100">
-					<h2 class="box-header page-margin-top-section">VEHICLES SERVICED</h2>
-					<p class="description align-center">We provide top notch maintenance service for all types of vehicles.<br>We are certified to service and repair the following makes:</p>
+					<h2 class="box-header page-margin-top-section">O QUE FAZEMOS/ATENDEMOS?</h2>
+					<p class="description align-center">Temos profissionais e produtos capacitados para todo tipo de PET<br>Prestamos suporte nas consultas e pós-operatórios</p>
 					<div class="row margin-top-30">
 						<div class="column column-1-3">
 							<ul class="list">
-								<li class="template-bullet">General Motors</li>
-								<li class="template-bullet">Land Rover</li>
-								<li class="template-bullet">Lexus</li>
-								<li class="template-bullet">Lincoln</li>
-								<li class="template-bullet">Mazda</li>
+								<li class="template-bullet">Cachorros</li>
+								<li class="template-bullet">Gatos</li>
+								<li class="template-bullet">Aves</li>
+								<li class="template-bullet">Peixes</li>
+								<li class="template-bullet">Tartarugas</li>
 							</ul>
 						</div>
 						<div class="column column-1-3">
 							<ul class="list">
-								<li class="template-bullet">Mercedes - Benz</li>
-								<li class="template-bullet">Mercury</li>
-								<li class="template-bullet">Mitsubishi</li>
-								<li class="template-bullet">Nissan</li>
-								<li class="template-bullet">Renault</li>
+								<li class="template-bullet">Medicamentos</li>
+								<li class="template-bullet">Vacinas</li>
+								<li class="template-bullet">Produtos de Higiene</li>
+								<li class="template-bullet">Cirurgias</li>
+								<li class="template-bullet">Atendimento Clinico</li>
 							</ul>
 						</div>
 						<div class="column column-1-3">
 							<ul class="list">
-								<li class="template-bullet">Plymouth</li>
-								<li class="template-bullet">Pontiac Porsche</li>
-								<li class="template-bullet">Rover</li>
-								<li class="template-bullet">Saab</li>
-								<li class="template-bullet">Saleen</li>
+								<li class="template-bullet">Banho e tosa</li>
+								<li class="template-bullet">Tosa personalizada</li>
+								<li class="template-bullet">Tosa Higiênica</li>
+								<li class="template-bullet">Atendimento a domicilio</li>
+								<li class="template-bullet">Atendimento via chat</li>
 							</ul>
 						</div>
 					</div>
 					<div class="align-center margin-top-67 padding-bottom-20">
-						<a class="more simple" href="?page=services" title="VIEW FULL LIST"><span>VIEW FULL LIST</span></a>
+						<a class="more simple" title="TRAGA SEU PET"><span>TRAGA SEU PET</span></a>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row full-width page-padding-top-section">
 			<div class="row">
-				<h2 class="box-header">AUTO REPAIR SERVICES</h2>
-				<p class="description align-center">We offer a full range of garage services to vehicle owners located in Tucson area.<br>Our professinals know how to handle a wide range of car services.</p>
+				<h2 class="box-header">CONSULTAS VETERINÁRIAS</h2>
+				<p class="description align-center">Os melhores Médicos veterinários e equipe de suporte pronta para atendê-lo</p>
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
 							<img src="images/samples/390x260/image_01.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_engine_diagnostics" title="Engine Diagnostics">ENGINE DIAGNOSTICS<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a href="?page=service_engine_diagnostics" title="Engine Diagnostics">ANESTESISTAS QUALIFICADOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
 							<img src="images/samples/390x260/image_02.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">LUBE, OIL AND FILTERS<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">OS MELHORES ENFERMEIROS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_belts_hoses" title="Belts and Hoses">
 							<img src="images/samples/390x260/image_03.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_belts_hoses" title="Belts and Hoses">BELTS AND HOSES<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a href="?page=service_belts_hoses" title="Belts and Hoses">VETERINÁRIOS CARINHOSOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 				</ul>
 				<div class="align-center margin-top-40 padding-bottom-87">
-					<a class="more" href="?page=services" title="VIEW ALL SERVICES"><span>VIEW ALL SERVICES</span></a>
+					<a class="more" href="?page=services" title="TRAGA SEU PET"><span>TRAGA SEU PET</span></a>
 				</div>
 			</div>
 		</div>
