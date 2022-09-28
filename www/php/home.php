@@ -344,49 +344,49 @@
 		</div>
 		<div class="row page-margin-top-section">
 			<div class="row">
-				<h2 class="box-header">COMPANY OVERVIEW</h2>
-				<p class="description align-center">We can help you with everything from an oil change to an engine change.<br>We can handle any problem on both foreign and domestic vehicles.</p>
+				<h2 class="box-header">VISÃO DE NEGÓCIO</h2>
+				<p class="description align-center">Somos um negócio criado para ser bom para as três partes:<br>Clientes, PETS, e Funcionários</p>
 			</div>
 			<div class="row page-margin-top-section">
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
-							<h5>CAR AUDIO SERVICE</h5>
+							<h5>CIRURGIAS DE CASTRAÇÃO</h5>
 							<div class="icon sl-small-car-audio"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Cirurgias de castração com toda segurança e tecnologia envolvida no processo.</p>
 						</li>
 						<li>
-							<h5>CAR A/C RECHARGE</h5>
+							<h5>CONSULTAS VETERINÁRIAS</h5>
 							<div class="icon sl-small-air-conditioning"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Consultas com os melhores especialistas, exames e diagnósticos completos.</p>
 						</li>
 					</ul>
 				</div>
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
-							<h5>FREE OIL CHANGE</h5>
+							<h5>MEDICAMENTOS</h5>
 							<div class="icon sl-small-car-oil"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Medicamentos com preço justo e a melhor qualidade.</p>
 						</li>
 						<li>
-							<h5>PARKING SENSORS CALIBRATION</h5>
+							<h5>UTI PARTICULAR</h5>
 							<div class="icon sl-small-parking-sensor"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Nosso consultório possui uma UTI própria já equipada com tudo que seu pet precisa nesse momento dificil.</p>
 						</li>
 					</ul>
 				</div>
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
-							<h5>ENGINE DIAGNOSTICS</h5>
+							<h5>BANHO E TOSA</h5>
 							<div class="icon sl-small-signal-warning"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Possuimos profissionais altamente capacitados para fazer o banho e tosa do seu PET ser uma experiencia unica.</p>
 						</li>
 						<li>
-							<h5>CAR BATTERY REPAIRS</h5>
+							<h5>MAIOR VARIEDADE DE BRINQUEDOS</h5>
 							<div class="icon sl-small-car-battery"></div>
-							<p>Services consequat luctus at justo auctor metus est donec. Tempus terminal morbi nulla donec elite maecenas modern forte elementum vehicula.</p>
+							<p>Trabalhamos com as melhores marcas e models de brinquedos para seu pet.</p>
 						</li>
 					</ul>
 				</div>
@@ -449,7 +449,7 @@
 			</ul>
 		</div>
 		<div class="row gray full-width padding-top-54 padding-bottom-61 align-center">
-			<h3><span class="button-label">DO YOU LIKE WHAT YOU SEE</span> <a class="more" target="_top" href="https://1.envato.market/c/296919/275988/4415?u=https://themeforest.net/cart/add_items?item_ids=12332985&amp;ref=QuanticaLabs" title="PURCHASE TEMPLATE"><span>PURCHASE TEMPLATE</span></a></h3>
+			<h3><span class="button-label">GOSTARIA DE NOS CONHECER</span> <a class="more" target="_top"title="CONHEÇA-NOS"><span>CONTATE-NOS</span></a></h3>
 		</div>
 		<!--<div class="row gray full-width padding-top-bottom-50">
 			<div class="row">
@@ -463,33 +463,33 @@
 		</div>-->
 		<div class="row page-margin-top-section">
 			<div class="column column-1-2">
-				<h3 class="box-header">OUR MISSION</h3>
-				<p class="description">We offer a full range of garage services to vehicle owners located in Tucson area. All mechanic services are performed by highly qualified mechanics. We can handle any car problem.</p>
-				<p>We offer a full range of garage services to vehicle owners in Tucson. Our professionals know how to handle a wide range of car services. Whether you drive a passenger car or medium sized truck or SUV, our mechanics strive to <a href="#">ensure that your vehicle</a> will be performing at its best <a href="#">before leaving</a> our car shop.</p>
+				<h3 class="box-header">NOSSA MISSÃO</h3>
+				<p class="description">Poder oferecer aos nossos cliente motivos para voltar, proporcionando uma experiência única.</p>
+				<p>Tratando seu PET como se fosse nosso, afinal, amamos os pets como ninguém.</p>
 				<div class="page-margin-top">
-					<a class="more" href="?page=about" title="READ MORE"><span>READ MORE</span></a>
+					<a class="more" title="READ MORE"><span>SAIBA MAIS</span></a>
 				</div>
 			</div>
 			<div class="column column-1-2">
-				<h3 class="box-header">POPULAR QUESTIONS</h3>
+				<h3 class="box-header">QUESTÕES FREQUENTES</h3>
 				<ul class="accordion margin-top-40 clearfix">
 					<li>
 						<div id="accordion-using-synthetic">
-							<h4>Should I consider using synthetic motor oil?</h4>
+							<h4>Como posso agendar o banho do meu pet?</h4>
 						</div>
-						<p>Synthetic engine oils are produced through a synthesis process that takes very small molecules and assembles them into larger designer molecules with premium lubricating properties.</p>
+						<p>Você pode nos contatar através de nosso site, ou pelo telefone (11)99999-9999.</p>
 					</li>
 					<li>
 						<div id="accordion-parts-replacements">
-							<h4>What parts should be replaced at what intervals?</h4>
+							<h4>Como controlar as vacinas do meu pet?</h4>
 						</div>
-						<p>Synthetic engine oils are produced through a synthesis process that takes very small molecules and assembles them into larger designer molecules with premium lubricating properties.</p>
+						<p>Possuimos um cartão personalizado online para que você possa acompanhar a vacinação do seu bichinho.</p>
 					</li>
 					<li>
 						<div id="accordion-track-routine">
-							<h4>How do I keep track of routine maintenance?</h4>
+							<h4>Possuem programa de fidelidade?</h4>
 						</div>
-						<p>Synthetic engine oils are produced through a synthesis process that takes very small molecules and assembles them into larger designer molecules with premium lubricating properties.</p>
+						<p>Estamos trabalhando para proporcionar um clube de descontos para nossos clientes</p>
 					</li>
 				</ul>
 			</div>
