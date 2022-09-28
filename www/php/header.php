@@ -56,7 +56,7 @@
 							(11) 9 9999-9999
 						</li>
 						<li class="template-mail">
-							<a href="mailto:Pet Shop DMMG@mail.com">PetShopDMMG@gmail.com</a>
+							<a href="mailto:PETSHOP DMGG@mail.com">PetShopDMMG@gmail.com</a>
 						</li>
 						<li class="template-clock">
 							Mon - Fri: 7:30am - 5:30pm
@@ -159,7 +159,7 @@
 				<div class="vertical-align-table column-1-1">
 					<div class="header clearfix">
 						<div class="logo vertical-align-cell">
-							<h1><a href="?page=home" title="Pet Shop DMMG">Pet Shop DMMG</a></h1>
+							<h1><a href="?page=home" title="PETSHOP DMGG">PETSHOP DMGG</a></h1>
 						</div>
 						<a href="#" class="mobile-menu-switch vertical-align-cell">
 							<span class="line"></span>
