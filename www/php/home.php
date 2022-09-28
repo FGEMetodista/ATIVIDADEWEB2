@@ -235,7 +235,7 @@
 					</div>
 				</div>
 				<div class="align-center margin-top-67 padding-bottom-20">
-					<a class="more" href="?page=about" title="READ MORE"><span>Saiba Mais</span></a>
+					<a class="more" href="?page=about" title="SAIBA MAIS"><span>Saiba Mais</span></a>
 				</div>
 			</div>	
 		</div>
@@ -319,23 +319,20 @@
 				<ul class="testimonials-list">
 					<li>
 						<div class="hexagon small"><div class="sl-small-pen"></div></div>
-						<p>"I have taken several of the family cars here for the past several years and without exception the experiences have been outstanding. 
-						I would highly recommend this place to any one who wants great service, honest value, and really great people."</p>
-						<h6>ROBERT SMITH</h6>
+						<p>"APÓS CONHECER A PETSHOP DMGG, FIQUEI MAIS SEGURA COM OS TRATAMENTOS E PROCEDIMENTOS REALIZADOS EM MEUS PETS. ELES SÃO ÓTIMOS E AMAM OS BICHINHOS!"</p>
+						<h6>ELAINE DIAS SMITH</h6>
 						<!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
 					</li>
 					<li>
 						<div class="hexagon small"><div class="sl-small-pen"></div></div>
-						<p>"I have taken several of the family cars here for the past several years and without exception the experiences have been outstanding. 
-						I would highly recommend this place to any one who wants great service, honest value, and really great people."</p>
-						<h6>ROBERT SMITH</h6>
+						<p>"APÓS CONHECER A PETSHOP DMGG, FIQUEI MAIS SEGURA COM OS TRATAMENTOS E PROCEDIMENTOS REALIZADOS EM MEUS PETS. ELES SÃO ÓTIMOS E AMAM OS BICHINHOS!"</p>
+						<h6>ELAINE DIAS SMITH</h6>
 						<!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
 					</li>
 					<li>
 						<div class="hexagon small"><div class="sl-small-pen"></div></div>
-						<p>"I have taken several of the family cars here for the past several years and without exception the experiences have been outstanding. 
-						I would highly recommend this place to any one who wants great service, honest value, and really great people."</p>
-						<h6>ROBERT SMITH</h6>
+						<p>"APÓS CONHECER A PETSHOP DMGG, FIQUEI MAIS SEGURA COM OS TRATAMENTOS E PROCEDIMENTOS REALIZADOS EM MEUS PETS. ELES SÃO ÓTIMOS E AMAM OS BICHINHOS!"</p>
+						<h6>ELAINE DIAS SMITH</h6>
 						<!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
 					</li>
 				</ul>
@@ -395,27 +392,27 @@
 		<div class="row full-width page-margin-top-section">
 			<ul class="galleries-list clearfix page-margin-top">
 				<li>
-					<a href="?page=gallery_tire_change" title="Tire Change">
+					<a href="?page=gallery_VETERINÁRIO_change" title="VETERINÁRIO">
 						<img src="images/samples/480x320/image_07.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
-								<p class="description">Tire Change</p>
-								<a class="more simple" href="?page=gallery_tire_change" title="READ MORE">READ MORE</a>
+								<p class="description">VETERINÁRIO</p>
+								<a class="more simple" href="?page=gallery_VETERINÁRIO_change" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
 				</li>
 				<li>
-					<a href="?page=gallery_oil_change" title="Oil Change">
+					<a href="?page=gallery_oil_change" title="BANHO E TOSA">
 						<img src="images/samples/480x320/image_02.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
-								<p class="description">Oil Change</p>
-								<a class="more simple" href="?page=gallery_oil_change" title="READ MORE">READ MORE</a>
+								<p class="description">BANHO E TOSA</p>
+								<a class="more simple" href="?page=gallery_oil_change" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
@@ -427,8 +424,8 @@
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
-								<p class="description">Our Facility</p>
-								<a class="more simple" href="?page=gallery_belts_hoses" title="READ MORE">READ MORE</a>
+								<p class="description">FACILIDADES</p>
+								<a class="more simple" href="?page=gallery_belts_hoses" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
@@ -440,8 +437,8 @@
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
-								<p class="description">Brakes Repair</p>
-								<a class="more simple" href="?page=gallery_brake_repair" title="READ MORE">READ MORE</a>
+								<p class="description">LOJA</p>
+								<a class="more simple" href="?page=gallery_brake_repair" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
@@ -467,7 +464,7 @@
 				<p class="description">Poder oferecer aos nossos cliente motivos para voltar, proporcionando uma experiência única.</p>
 				<p>Tratando seu PET como se fosse nosso, afinal, amamos os pets como ninguém.</p>
 				<div class="page-margin-top">
-					<a class="more" title="READ MORE"><span>SAIBA MAIS</span></a>
+					<a class="more" title="SAIBA MAIS"><span>SAIBA MAIS</span></a>
 				</div>
 			</div>
 			<div class="column column-1-2">
@@ -489,64 +486,12 @@
 						<div id="accordion-track-routine">
 							<h4>Possuem programa de fidelidade?</h4>
 						</div>
-						<p>Estamos trabalhando para proporcionar um clube de descontos para nossos clientes</p>
+						<p>Estamos trabalhando para proporcionar um clube de descontos para nossos clientes.</p>
 					</li>
 				</ul>
 			</div>
 		</div>
-		<div class="row full-width top-border page-margin-top-section padding-bottom-50">
-			<div class="row">
-				<div class="our-clients-list-container page-margin-top">
-					<ul class="our-clients-list">
-						<li>
-							<img src="images/logos/logo_01.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_02.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_03.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_04.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_05.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_06.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_06.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_05.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_04.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_03.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_02.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_01.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_04.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_03.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_01.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_05.png" alt="">
-						</li>
-					</ul>
+		
 					<div class="cs-carousel-pagination"></div>
 				</div>
 			</div>
