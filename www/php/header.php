@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>CarService - Mechanic Auto Shop Template</title>
+		<title>Petshop - DMGG - Teu cão na minha mão</title>
 		<!--meta-->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.2" />
