@@ -1921,14 +1921,14 @@ body .type-small .testimonials-list .ornament.empty-circle::before
 /* --- backgrounds --- */
 .background-1
 {
-	background-image: url('../images/samples/960x680/image_01.jpg');
+	background-image: url('../images/samples/banhobann.jpg');
 	background-size: cover;
 	background-position: center;
 }
 /* --- parallax --- */
 .parallax-1
 {
-	background-image: url('../images/samples/1920x1200/image_01.jpg');
+	background-image: url('../images/samples/bannerprinc.jpg');
 }
 .parallax-2
 {
@@ -3966,4 +3966,11 @@ body.lock-position
 	overflow: hidden;
 	width: 100%;
 	height: 100%;
+}
+
+.imgpers
+{
+	width: 150px;
+	height: 200px;
+	
 }

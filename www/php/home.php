@@ -242,7 +242,7 @@
 		<div class="row full-width gray flex-box page-margin-top-section">
 			<div class="column column-1-2 background-1">
 				<a class="flex-hide" href="?page=service_engine_diagnostics" title="Tiling and Painting">
-					<img src="images/samples/960x680/image_01.jpg" alt="">
+					<img src="images\samples\banhobann.jpg" alt="">
 				</a>
 			</div>
 			<div class="column column-1-2 padding-bottom-66">
@@ -291,19 +291,19 @@
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
-							<img src="images/samples/390x260/image_01.jpg" alt="">
+							<img src="images\samples\vet.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_engine_diagnostics" title="Engine Diagnostics">ANESTESISTAS QUALIFICADOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
-							<img src="images/samples/390x260/image_02.jpg" alt="">
+							<img src="images\samples\vet2.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">OS MELHORES ENFERMEIROS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_belts_hoses" title="Belts and Hoses">
-							<img src="images/samples/390x260/image_03.jpg" alt="">
+							<img src="images\samples\vet3.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_belts_hoses" title="Belts and Hoses">VETERINÁRIOS CARINHOSOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
@@ -393,7 +393,7 @@
 			<ul class="galleries-list clearfix page-margin-top">
 				<li>
 					<a href="?page=gallery_VETERINÁRIO_change" title="VETERINÁRIO">
-						<img src="images/samples/480x320/image_07.jpg" alt="">
+						<img class="imgpers" src="images\samples\vet2.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
@@ -406,7 +406,7 @@
 				</li>
 				<li>
 					<a href="?page=gallery_oil_change" title="BANHO E TOSA">
-						<img src="images/samples/480x320/image_02.jpg" alt="">
+						<img class="imgpers" src="images\samples\tosa.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
@@ -419,7 +419,7 @@
 				</li>
 				<li>
 					<a href="?page=gallery_belts_hoses" title="Our Facility">
-						<img src="images/samples/480x320/image_08.jpg" alt="">
+						<img class="imgpers" src="images\samples\facil.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
@@ -432,7 +432,7 @@
 				</li>
 				<li>
 					<a href="?page=gallery_brake_repair" title="Brakes Repair">
-						<img src="images/samples/480x320/image_05.jpg" alt="">
+						<img class="imgpers"src="images\samples\toys2.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
