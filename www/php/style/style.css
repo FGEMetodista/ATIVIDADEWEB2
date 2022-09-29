@@ -3803,9 +3803,10 @@ div.pp_default .pp_close:hover
 }
 .revolution-slider p.description
 {
-	color: #FFF;
+	color: #1E69B8;
 	font-size: 21px;
 	text-align: center;
+	font-weight: 900;
 	margin-top: 0;
 }
 /* --- slider revolution label --- */
@@ -3816,7 +3817,7 @@ div.pp_default .pp_close:hover
 .tp-caption a,
 .tp-caption a:hover
 {
-	color: #FFF;
+	color:#1E69B8;
 }
 /* --- slider revolution navigation arrows --- */
 .tparrows.preview1
