@@ -209,7 +209,7 @@
 					<div class="column column-1-3">
 						<ul class="features-list big">
 							<li>
-								<div class="hexagon"><div class="sl-small-user-chat"></div></div>
+								<div class="hexagon"><div><img src="images\icons\immigration.png" height = 64px width = 64px alt=""></div></div>
 								<h4 class="box-header page-margin-top">ATENDIMENTO PERSONALIZADO</h4>
 								<p>Todos nossos clientes recebem um atendimento personalizado que atenda suas expectativas e se adapte ao temperamento do seu bichinho.</p>
 							</li>
@@ -218,7 +218,7 @@
 					<div class="column column-1-3">
 						<ul class="features-list big">
 							<li>
-								<div class="hexagon"><div class="sl-small-wrench-screwdriver"></div></div>
+								<div class="hexagon"><div><img src="images\icons\toys.png" height = 64px width = 64px alt=""></div></div>
 								<h4 class="box-header page-margin-top">OS MELHORES PRODUTOS</h4>
 								<p>Uma linha completa de produtos e medicamentos para que possamos proporcionar a melhor experiência ao cliente.</p>
 							</li>
@@ -227,7 +227,7 @@
 					<div class="column column-1-3">
 						<ul class="features-list big">
 							<li>
-								<div class="hexagon"><div class="sl-small-truck-tow"></div></div>
+								<div class="hexagon"><div><img src="images\icons\petshop.png" height = 64px width = 64px alt=""></div></div>
 								<h4 class="box-header page-margin-top">AMBIENTE AGRADÁVEL</h4>
 								<p>Nossos ambientes foram pensados e projetados para melhor atendê-lo.</p>
 							</li>
@@ -291,19 +291,19 @@
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
-							<img src="images\samples\vet.jpg" alt="">
+							<img class="imgpers2" src="images\samples\vet.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_engine_diagnostics" title="Engine Diagnostics">ANESTESISTAS QUALIFICADOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
-							<img src="images\samples\vet2.jpg" alt="">
+							<img class="imgpers2" src="images\samples\vet2.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">OS MELHORES ENFERMEIROS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
 						<a href="?page=service_belts_hoses" title="Belts and Hoses">
-							<img src="images\samples\vet3.jpg" alt="">
+							<img class="imgpers2" src="images\samples\vet3.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_belts_hoses" title="Belts and Hoses">VETERINÁRIOS CARINHOSOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
@@ -348,13 +348,13 @@
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
-							<h5>CIRURGIAS DE CASTRAÇÃO</h5>
-							<div class="icon sl-small-car-audio"></div>
+						<div><img src="images\icons\surgery.png" height = 64px width = 64px alt=""></div>
+							<h5>CIRURGIAS DE CASTRAÇÃO</h5>							
 							<p>Cirurgias de castração com toda segurança e tecnologia envolvida no processo.</p>
 						</li>
 						<li>
+						<div><img src="images\icons\veterinarian.png" height = 64px width = 64px alt=""></div>
 							<h5>CONSULTAS VETERINÁRIAS</h5>
-							<div class="icon sl-small-air-conditioning"></div>
 							<p>Consultas com os melhores especialistas, exames e diagnósticos completos.</p>
 						</li>
 					</ul>
@@ -362,13 +362,14 @@
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
+						<div><img src="images\icons\medicine.png" height = 64px width = 64px alt=""></div>
 							<h5>MEDICAMENTOS</h5>
 							<div class="icon sl-small-car-oil"></div>
 							<p>Medicamentos com preço justo e a melhor qualidade.</p>
 						</li>
 						<li>
-							<h5>UTI PARTICULAR</h5>
-							<div class="icon sl-small-parking-sensor"></div>
+						<div><img src="images\icons\surgery.png" height = 64px width = 64px alt=""></div>
+							<h5>UTI PARTICULAR</h5>						
 							<p>Nosso consultório possui uma UTI própria já equipada com tudo que seu pet precisa nesse momento dificil.</p>
 						</li>
 					</ul>
@@ -376,13 +377,13 @@
 				<div class="column column-1-3">
 					<ul class="features-list">
 						<li>
-							<h5>BANHO E TOSA</h5>
-							<div class="icon sl-small-signal-warning"></div>
+						<div><img src="images\icons\dog.png" height = 64px width = 64px alt=""></div>
+							<h5>BANHO E TOSA</h5>						
 							<p>Possuimos profissionais altamente capacitados para fazer o banho e tosa do seu PET ser uma experiencia unica.</p>
 						</li>
 						<li>
-							<h5>MAIOR VARIEDADE DE BRINQUEDOS</h5>
-							<div class="icon sl-small-car-battery"></div>
+						<div><img src="images\icons\toys.png" height = 64px width = 64px alt=""></div>
+							<h5>MAIOR VARIEDADE DE BRINQUEDOS</h5>							
 							<p>Trabalhamos com as melhores marcas e models de brinquedos para seu pet.</p>
 						</li>
 					</ul>
