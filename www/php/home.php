@@ -318,7 +318,7 @@
 				<a href="#" class="slider-control left template-arrow-left-1"></a>
 				<ul class="testimonials-list">
 					<li>
-						<div class="hexagon small"><div class="sl-small-pen"></div></div>
+						<div class="hexagon small"><div><img src="images\icons\dog.png" height = 64px width = 64px alt=""></div></div>
 						<p>"APÓS CONHECER A PETSHOP DMGG, FIQUEI MAIS SEGURA COM OS TRATAMENTOS E PROCEDIMENTOS REALIZADOS EM MEUS PETS. ELES SÃO ÓTIMOS E AMAM OS BICHINHOS!"</p>
 						<h6>ELAINE DIAS SMITH</h6>
 						<!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
