@@ -34,8 +34,8 @@
 							<li>Rudge Ramos, São Bernardo do Campo</li>
 							<li>R. Alfeu Taváres, 149</li>
 							<li><span>WhatsApp:</span>(11) 9 9999-9999</li>
-							<li><span>Contato:</span>(520) 9999-9999</li>
-							<li><span>Email:</span><a href="mailto:carservice@mail.com">petshopdmmg@mail.com</a></li>
+							<li><span>Contato:</span>(11) 9999-9999</li>
+							<li><span>Email:</span><a href="mailto:petshopdmmg@mail.com">petshopdmmg@mail.com</a></li>
 						</ul>
 						<ul class="social-icons gray margin-top-26">
 							<li>
