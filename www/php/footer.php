@@ -4,8 +4,8 @@
 					<div class="column column-1-3">
 						<ul class="contact-details-list">
 							<li class="sl-small-location-map">
-								<p>São Bernardo do Campo, SP - 09000-000:<br>
-								Rua XXXX, Numero:XXXX</p>
+								<p>São Bernardo do Campo, São Paulo<br>
+								Brasil</p>
 							</li>
 						</ul>
 					</div>
@@ -31,11 +31,11 @@
 					<div class="column column-1-4">
 						<h6 class="box-header">SOBRE NÓS</h6>
 						<ul class="list simple margin-top-20">
-							<li>São bernardo do Campo, São Paulo / Brasil</li>
-							<li>Rua XXXX, Numero: XXX</li>
+						    <li>Rudge Ramos, São Bernardo do Campo - SP</li>
+							<li>R. Alfeu Taváres, 149</li>
 							<li><span>WhatsApp:</span>(11) 9 9999 9999</li>
 							<li><span>Telefone:</span>(11) 9999 9999</li>
-							<li><span>E-mail:</span><a href="mailto:carservice@mail.com">petshopdmmg@gmail.com</a></li>
+							<li><span>E-mail:</span><a href="mailto:carservice@mail.com">petshopdmmg@mail.com</a></li>
 						</ul>
 						<ul class="social-icons gray margin-top-26">
 							<li>
@@ -65,7 +65,7 @@
 						</ul>
 					</div>
 					<div class="column column-1-4">
-						<h6 class="box-header">POPULAR TAGS</h6>
+						<h6 class="box-header">TAGS POPULARES</h6>
 						<ul class="taxonomies margin-top-30">
 							<li><a href="?page=category&amp;cat=belts" title="BELTS">BANHO</a></li>
 							<li><a href="?page=category&amp;cat=brakes" title="BRAKES">TOSA</a></li>
