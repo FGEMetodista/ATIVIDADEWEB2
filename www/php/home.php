@@ -241,7 +241,7 @@
 		</div>
 		<div class="row full-width gray flex-box page-margin-top-section" id="serviços">
 			<div class="column column-1-2 background-1">
-				<a class="flex-hide" href="?page=service_engine_diagnostics" title="Tiling and Painting">
+				<a class="flex-hide"  ="?page=service_engine_diagnostics" title="Tiling and Painting">
 					<img src="images\samples\banhobann.jpg" alt="">
 				</a>
 			</div>
@@ -290,32 +290,32 @@
 				<p class="description align-center">Os melhores Médicos veterinários e equipe de suporte pronta para atendê-lo</p>
 				<ul class="services-list clearfix page-margin-top">
 					<li>
-						<a href="?page=service_engine_diagnostics" title="Engine Diagnostics">
+						<a  title="Engine Diagnostics">
 							<img class="imgpers2" src="images\samples\vet.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_engine_diagnostics" title="Engine Diagnostics">ANESTESISTAS QUALIFICADOS<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a title="Engine Diagnostics">ANESTESISTAS QUALIFICADOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
-						<a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">
+						<a  title="Lube, Oil and Filters">
 							<img class="imgpers2" src="images\samples\vet2.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_lube_oil_filters" title="Lube, Oil and Filters">OS MELHORES ENFERMEIROS<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a title="Lube, Oil and Filters">OS MELHORES ENFERMEIROS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 					<li>
-						<a href="?page=service_belts_hoses" title="Belts and Hoses">
+						<a  title="Belts and Hoses">
 							<img class="imgpers2" src="images\samples\vet3.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_belts_hoses" title="Belts and Hoses">VETERINÁRIOS CARINHOSOS<span class="template-arrow-menu"></span></a></h4>
+						<h4 class="box-header"><a  title="Belts and Hoses">VETERINÁRIOS CARINHOSOS<span class="template-arrow-menu"></span></a></h4>
 					</li>
 				</ul>
 				<div class="align-center margin-top-40 padding-bottom-87">
-					<a class="more" href="?page=services" title="TRAGA SEU PET"><span>TRAGA SEU PET</span></a>
+					<a class="more"  ="?page=services" title="TRAGA SEU PET"><span>TRAGA SEU PET</span></a>
 				</div>
 			</div>
 		</div>
 		<div class="row full-width padding-top-70 padding-bottom-66 parallax parallax-1">	
 			<div class="row testimonials-container">
-				<a href="#" class="slider-control left template-arrow-left-1"></a>
+				<a  ="#" class="slider-control left template-arrow-left-1"></a>
 				<ul class="testimonials-list">
 					<li>
 						<div class="hexagon small"><div><img src="images\icons\dog.png" height = 64px width = 64px alt=""></div></div>
@@ -336,7 +336,7 @@
 						<!--<div class="author-details">CEO OF NEW PORT COMPANY</div>-->
 					</li>
 				</ul>
-				<a href="#" class="slider-control right template-arrow-left-1"></a>
+				<a  ="#" class="slider-control right template-arrow-left-1"></a>
 			</div>
 		</div>
 		<div class="row page-margin-top-section">
@@ -393,53 +393,53 @@
 		<div class="row full-width page-margin-top-section">
 			<ul class="galleries-list clearfix page-margin-top">
 				<li>
-					<a href="?page=gallery_VETERINÁRIO_change" title="VETERINÁRIO">
+					<a  ="?page=gallery_VETERINÁRIO_change" title="VETERINÁRIO">
 						<img class="imgpers" src="images\samples\vet2.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
 								<p class="description">VETERINÁRIO</p>
-								<a class="more simple" href="?page=gallery_VETERINÁRIO_change" title="SAIBA MAIS">SAIBA MAIS</a>
+								<a class="more simple"  ="?page=gallery_VETERINÁRIO_change" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
 				</li>
 				<li>
-					<a href="?page=gallery_oil_change" title="BANHO E TOSA">
+					<a  ="?page=gallery_oil_change" title="BANHO E TOSA">
 						<img class="imgpers" src="images\samples\tosa.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
 								<p class="description">BANHO E TOSA</p>
-								<a class="more simple" href="?page=gallery_oil_change" title="SAIBA MAIS">SAIBA MAIS</a>
+								<a class="more simple"  ="?page=gallery_oil_change" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
 				</li>
 				<li>
-					<a href="?page=gallery_belts_hoses" title="Our Facility">
+					<a  ="?page=gallery_belts_hoses" title="Our Facility">
 						<img class="imgpers" src="images\samples\facil.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
 								<p class="description">FACILIDADES</p>
-								<a class="more simple" href="?page=gallery_belts_hoses" title="SAIBA MAIS">SAIBA MAIS</a>
+								<a class="more simple"  ="?page=gallery_belts_hoses" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
 				</li>
 				<li>
-					<a href="?page=gallery_brake_repair" title="Brakes Repair">
+					<a  ="?page=gallery_brake_repair" title="Brakes Repair">
 						<img class="imgpers"src="images\samples\toys2.jpg" alt="">
 					</a>
 					<div class="view align-center">
 						<div class="vertical-align-table">
 							<div class="vertical-align-cell">
 								<p class="description">LOJA</p>
-								<a class="more simple" href="?page=gallery_brake_repair" title="SAIBA MAIS">SAIBA MAIS</a>
+								<a class="more simple"  ="?page=gallery_brake_repair" title="SAIBA MAIS">SAIBA MAIS</a>
 							</div>
 						</div>
 					</div>
@@ -455,7 +455,7 @@
 					<h3>EXPLORE OUR PROJECTS</h3>
 				</div>
 				<div class="column column-1-2">
-					<a class="more float" href="?page=projects" title="VIEW ALL PROJECTS">VIEW ALL PROJECTS</a>
+					<a class="more float"  ="?page=projects" title="VIEW ALL PROJECTS">VIEW ALL PROJECTS</a>
 				</div>
 			</div>
 		</div>-->
