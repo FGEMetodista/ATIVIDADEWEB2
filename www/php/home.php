@@ -194,15 +194,15 @@
 					<li class="column column-1-3">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
-								<a class="more" href="?page=appointment" title="CONTATO"><span>SOLICITAR CONTATO</span></a>
+								<a class="more"  title="CONTATO"><span>SOLICITAR CONTATO</span></a>
 							</div>
 						</div>
 					</li>
 				</ul>
 			</div>
 		</div>
-		<div class="row page-margin-top-section">
-			<div class="row">
+		<div  class="row page-margin-top-section">
+			<div class="row" id="vantagens">
 				<h2 class="box-header">POR QUE NOS ESCOLHER?</h2>
 				<p class="description align-center">Possuimos uma linha de produtos completa para seu PET<br>Todos nossos profissionais estão capacitados para atendimento de excelência</p>
 				<div class="row page-margin-top">
@@ -235,11 +235,11 @@
 					</div>
 				</div>
 				<div class="align-center margin-top-67 padding-bottom-20">
-					<a class="more" href="?page=about" title="SAIBA MAIS"><span>Saiba Mais</span></a>
+					<a class="more"  title="SAIBA MAIS"><span>Saiba Mais</span></a>
 				</div>
 			</div>	
 		</div>
-		<div class="row full-width gray flex-box page-margin-top-section">
+		<div class="row full-width gray flex-box page-margin-top-section" id="serviços">
 			<div class="column column-1-2 background-1">
 				<a class="flex-hide" href="?page=service_engine_diagnostics" title="Tiling and Painting">
 					<img src="images\samples\banhobann.jpg" alt="">

@@ -59,20 +59,10 @@
 							<a href="mailto:PETSHOP DMGG@mail.com">PetShopDMMG@gmail.com</a>
 						</li>
 						<li class="template-clock">
-							Mon - Fri: 7:30am - 5:30pm
+							Seg - Sex: 7:30am - 5:30pm
 						</li>
 					</ul>
-					<div class="search-container">
-						<a class="template-search" href="#" title="Search"></a>
-						<form class="search">
-							<input type="text" name="s" placeholder="Search..." value="Search..." class="search-input hint">
-							<fieldset class="search-submit-container">
-								<span class="template-search"></span>
-								<input type="submit" class="search-submit" value="">
-							</fieldset>
-							<input type="hidden" name="page" value="search">
-						</form>
-					</div>
+				
 					<ul class="social-icons">
 						<li>
 							<a target="_blank" href="https://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
@@ -159,7 +149,7 @@
 				<div class="vertical-align-table column-1-1">
 					<div class="header clearfix">
 						<div class="logo vertical-align-cell">
-							<h1><a href="?page=home" title="PETSHOP DMGG">PETSHOP DMGG</a></h1>
+							<h1><img src="images/logos/pata.png" style="width: 7%;"><a href="?page=home" title="PETSHOP DMGG"> PETSHOP DMGG</a></h1>
 						</div>
 						<a href="#" class="mobile-menu-switch vertical-align-cell">
 							<span class="line"></span>

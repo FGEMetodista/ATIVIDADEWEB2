@@ -429,11 +429,12 @@ h3 .more
 /* --- header --- */
 .header-container
 {
+	background-color: #113e6e;
 	padding: 26px 0;
 }
 .header-top-bar-container
 {
-	background-color: #F5F5F5;
+	background-color: #1E69B8;
 }
 .header-top-bar-container .header-toggle
 {
@@ -485,7 +486,7 @@ h3 .more
 }
 .header h1 a
 {	
-	color: #1E69B8;
+	color: #c8d5e3;
 }
 .header h1 a:hover
 {
@@ -562,7 +563,7 @@ h3 .more
     top: 0;
     width: 100%;
     z-index: 1001;
-	background: #FFF;
+	background: #113e6e;
 	padding: 16px 0;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
@@ -586,11 +587,11 @@ h3 .more
 }
 .sf-menu li, .sf-menu li:hover, .sf-menu li.sfHover, .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active
 {
-	background: none #fff;
+	background: none #113e6e;
 }
 .sf-menu li:hover a, .sf-menu li:hover a:visited
 {
-	color: #1E69B8;
+	color: #777;
 }
 .sf-menu li a, .sf-menu li a:visited
 {
@@ -598,7 +599,7 @@ h3 .more
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 26px;
-	color: #777;
+	color: #fff;
 	padding: 12px 0 12px 26px;
 	border: none;
 }
@@ -1139,7 +1140,7 @@ div.team-box
 }
 .services-list li h4
 {
-	border-left: 1px solid #E2E6E7;
+	border-left: 1px solid #ffffff;
 	background: #F5F5F5;
 	padding: 17px 15px 18px 20px;
 }
@@ -2968,7 +2969,7 @@ li.template-bullet:before
 .contact-details li
 {
 	float: left;
-	border-right: 1px solid #E2E6E7;
+	border-right: 1px solid #1b5a9e;
 	font-family: 'Open Sans';
 	font-weight: 500;
 	font-size: 13px;
@@ -2982,7 +2983,7 @@ li.template-bullet:before
 }
 .contact-details li:first-child
 {
-	border-left: 1px solid #E2E6E7;
+	border-left: 1px solid #1b5a9e;
 }
 .contact-details li:before
 {
@@ -2995,11 +2996,11 @@ li.template-bullet:before
 .social-icons li
 {
 	float: left;
-	border-right: 1px solid #E2E6E7;
+	border-right: 1px solid #1b5a9e;
 }
 .social-icons li:first-child
 {
-	border-left: 1px solid #E2E6E7;
+	border-left: 1px solid #1b5a9e;
 }
 .social-icons a
 {
@@ -3060,7 +3061,7 @@ li.template-bullet:before
 	display: block;
 	font-size: 14px;
 	padding: 17px;
-	border-right: 1px solid #E2E6E7;
+	border-right: 1px solid #1b5a9e;
 	color: #A4AAB3;
 }
 .template-search:hover

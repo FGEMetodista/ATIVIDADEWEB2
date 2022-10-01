@@ -27,7 +27,7 @@
 					</div>
 				</div>
 			<?php endif; ?>
-				<div class="row row-4-4<?php if($_GET["page"]!="contact" && $_GET["page"]!="contact_2"):?> top-border page-padding-top<?php endif;?>">
+				<div id="sobre" class="row row-4-4<?php if($_GET["page"]!="contact" && $_GET["page"]!="contact_2"):?> top-border page-padding-top<?php endif;?>">
 					<div class="column column-1-4">
 						<h6 class="box-header">SOBRE NÓS</h6>
 						<ul class="list simple margin-top-20">
@@ -52,7 +52,7 @@
 							</li>
 						</ul>
 					</div>
-					<div class="column column-1-4">
+					<div class="column column-1-4" id="serviços">
 						<h6 class="box-header">OUTROS SERVIÇOS</h6>
 						<ul class="list margin-top-20">
 							<li class="template-bullet">Banho e tosa</li>
